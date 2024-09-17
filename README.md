@@ -71,7 +71,7 @@ Recordar que para cada sistema (Windows y Linux), se usa respectivamente win32 y
    ./suma
 ```
 
-5. **Correr el ejecutable:**
+5. **Verificar el valor obtenido:**
 Para el caso del sistema operativo de Linux, se recomienda ver el valor resultante
 a través del siguiente comando
 ```bash
