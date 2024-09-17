@@ -1,3 +1,7 @@
+; Elaborado por:
+; Samuel Antonio Sanchez Peña
+; 20212020151
+
 section .data
     num1 db 10    ; Primer número a sumar
     num2 db 20    ; Segundo número a sumar
