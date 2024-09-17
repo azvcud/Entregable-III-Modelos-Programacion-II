@@ -1,3 +1,7 @@
+; Elaborado por:
+; Esteban Alejandro Villalba Delgadillo
+; 20212020064
+
 start:
     MOV A, 25      ; Cargar el primer número en el registro A (25)
     ADD A, 17      ; Sumar el segundo número (17) al registro A
